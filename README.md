@@ -1,3 +1,14 @@
+# VU-2022-Greenlab (App vs. Web)
+VU Green Lab replication package for [our report](https://www.overleaf.com/read/jcwgrxgxtrnb).
+This repository is a fork of [Android Runner](https://github.com/S2-group/android-runner), which is the framework on which the experiment is based.
+The experiment itself and specific instructions can be found under [`experiments/app_vs_web`](./experiments/app_vs_web).
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=S2-group_android-runner&metric=alert_status)](https://sonarcloud.io/dashboard?id=S2-group_android-runner)
 [![Build Status](https://travis-ci.org/S2-group/android-runner.svg?branch=master)](https://travis-ci.org/S2-group/android-runner)
 [![Coverage Status](https://coveralls.io/repos/github/S2-group/android-runner/badge.svg?branch=master)](https://coveralls.io/github/S2-group/android-runner?branch=master&service=github)
