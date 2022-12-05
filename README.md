@@ -1,6 +1,6 @@
 # App vs. Web (Replication package)
 This repository is a fork of [Android Runner](https://github.com/S2-group/android-runner), which is the framework on which the experiment is based.
-The experiment itself and specific instructions can be found under [`experiments/app_vs_web`](./experiments/).
+The experiment itself and specific instructions can be found under [`experiment`](./experiment/).
 <br></br>
 <br></br>
 *v========== Android Runner README.md ==========v*
