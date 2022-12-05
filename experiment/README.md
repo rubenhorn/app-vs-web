@@ -19,7 +19,7 @@ Use `utils/tap_text.sh` to click on a UI element with text matching a given patt
 Use `utils/clear_cache.sh` to clear the cache (but not the data) of an application.
 Use `utils/current_app.sh` and `utils/current_url.sh` to query the currently running native or web app respectively over ADB.
 ### Experiment data
-Use `utils/run_to_csv.py` to aggregate all measurements in a single table. (The output provided in `raw_results.tar.gz` was used to to generate `data_analysis/experiment_results`.) 
+Use `utils/run_to_csv.py` to aggregate all measurements in a single table. (The output provided in [`raw_results.tar.gz`](https://drive.google.com/file/d/1iNbD2xZZPrcmblFqGKKF6xm_otRTQDEu/view?usp=share_link) was used to to generate `data_analysis/experiment_results`.)
 
 ## Experiment
 The experiment can be run using `python3 <path to android-runner> experiments/config_<part>.json`.
