@@ -1,4 +1,0 @@
-[submodule "experiments/app_vs_web"]
-   path = experiments/app_vs_web
-   url = https://github.com/luoabd/VU-2022-Greenlab
-   branch = main
