@@ -1,4 +1,4 @@
-# App vs. Web
+# App vs Web
 
 **Note!** The scripts requires a unix-like system (Linux or OSX) and `bash`. (It is also recommended to set `bash` as the default shell of the user.)
 
