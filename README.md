@@ -6,9 +6,9 @@ If you use this replication package or parts of it, please cite the following pa
 ```bibtex
 @inproceedings{
     MOBILESoft_2023,
-    title={Native vs Web Apps: Comparing the Energy Consumption and Performance of Android Apps and their Web Counterparts},
-    booktitle={10th International Conference on Mobile Software Engineering and Systems 2023},
-    author={Horn, Ruen and Lahnaoui, Abdellah and Reinoso, Edgardo and Peng, Sicheng and Isakov, Vadim},
+    title={{Native vs Web Apps: Comparing the Energy Consumption and Performance of Android Apps and their Web Counterparts}},
+    booktitle={Proceedings of the 10th International Conference on Mobile Software Engineering and Systems 2023},
+    author={Horn, Ruben and Lahnaoui, Abdellah and Reinoso, Edgardo and Peng, Sicheng and Isakov, Vadim and Islam, Tanjina and Malavolta, Ivano},
     venue={Melbourne, Australia},
     year={2023},
     month={May}
