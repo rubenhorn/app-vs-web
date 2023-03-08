@@ -34,8 +34,7 @@ The experiment directory contains the following files:
 ```
 experiment/
 .
-|-- apks/                       Folder for storing APKs of the apps used in the experiment
-|                               (listed in apks/summary.txt)
+|-- apks/                       Contains the list of APKs and their versions used in the experiment
 |-- data-analysis/              The dataset andn R scripts for data analysis
 |-- experiments/                The Android Runner experiment configuration files
 |   |-- Scripts/                Python scripts used by Android Runner as hooks
